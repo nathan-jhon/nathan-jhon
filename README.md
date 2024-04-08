@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm NaTi Jhon</h1>
-<h3 align="center">A PRO front-end dev</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/bcDxX.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathan-jhon" alt="nathan-jhon" /></a> </p>
