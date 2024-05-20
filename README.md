@@ -36,13 +36,7 @@
 
 <h1 align="center">Hey there 👋, i am   Nathan Jhon</h1>
 
-###
 
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
-<p align="left">I'm a Pro-Front-End Dev and UI/UX Designer from Ethiopia🇪🇹<br><br>- 🔭 I’<br>- 📚 DOM, REACT, PRO PYTHON and SO ON  <br>- ⚡ In my free time I do Projects</p>
 
 ###
 
